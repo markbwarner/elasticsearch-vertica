@@ -1,0 +1,19 @@
+ Volume in drive C is OS
+ Volume Serial Number is 1844-7FF2
+
+ Directory of C:\Users\mark.warner\git\elasticsearch-vertica
+
+12/20/2018  10:25 AM    <DIR>          .
+12/20/2018  10:25 AM    <DIR>          ..
+12/20/2018  08:32 AM                80 create_es_flex.sh
+12/20/2018  08:32 AM             4,388 ElasticSearchCount.java
+12/20/2018  08:32 AM               819 es_build_flex_sql.sh
+12/20/2018  10:25 AM                 0 files.txt
+12/20/2018  08:32 AM               611 flex_es.sql
+12/20/2018  08:32 AM             1,576 JavaFunctions_create2.sql
+12/20/2018  08:32 AM             2,072 player2.sql
+12/20/2018  08:32 AM             1,005 player_session.sql
+12/20/2018  08:32 AM                85 README.md
+12/20/2018  08:32 AM               171 session_msg.sql
+              10 File(s)         10,807 bytes
+               2 Dir(s)  59,435,974,656 bytes free
